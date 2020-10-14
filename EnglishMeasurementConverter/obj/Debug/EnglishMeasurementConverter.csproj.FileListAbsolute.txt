@@ -1,0 +1,9 @@
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\EnglishMeasurementConverter\bin\Debug\EnglishMeasurementConverter.exe.config
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\EnglishMeasurementConverter\bin\Debug\EnglishMeasurementConverter.exe
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\EnglishMeasurementConverter\bin\Debug\EnglishMeasurementConverter.pdb
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\EnglishMeasurementConverter\obj\Debug\EnglishMeasurementConverter.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\EnglishMeasurementConverter\obj\Debug\EnglishMeasurementConverter.Form1.resources
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\EnglishMeasurementConverter\obj\Debug\EnglishMeasurementConverter.Properties.Resources.resources
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\EnglishMeasurementConverter\obj\Debug\EnglishMeasurementConverter.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\EnglishMeasurementConverter\obj\Debug\EnglishMeasurementConverter.exe
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\EnglishMeasurementConverter\obj\Debug\EnglishMeasurementConverter.pdb
